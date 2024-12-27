@@ -1,5 +1,5 @@
 # **Lifetime Terms and Conditions**  
-**Last Updated:** February 16th, 2024  
+**Last Updated:** December 27th, 2024  
 
 The following Policy applies to all users of Prime and serves as an extension of the Terms of Service.
 
