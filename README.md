@@ -7,7 +7,7 @@ The following Policy applies to all users of Prime and serves as an extension of
 
 ## **Definitions**  
 - **"Lifetime"** shall be defined as for as long as Prime ("We," "Us," "Our," "Company") agrees to operate the Service.  
-- For additional definitions, please refer to our [Terms and Conditions](#).
+- For additional definitions, please refer to our [Terms and Conditions](https://primediscordbot.github.io/terms-of-service).
 
 ---
 
